@@ -1,4 +1,4 @@
-# eGestor API
+# IntegraçãoSAP API
 
 O [eGestor](https://www.egestor.com.br) disponibiliza uma API RESTful que permite o acesso aos módulos do sistema.
 
